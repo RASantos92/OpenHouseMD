@@ -38,7 +38,7 @@
 - After that we have time to put what we learned into practice. We brakout into rooms, we do group activities together. 
 - Then there is a break at 12. after that it is more of an open lab. where we work on assignment for the day.
 - Then in the afternoon around 2 we have our afternoon session, maby a demo where were diving deeper in what we learned in the morning.
-- were constantly coding and solving problem. and the cool this is you dont have to do it by yourself. we will be in a room with all your other co-hort mates.
+- were constantly coding and solving problem. and the cool thing is you dont have to do it by yourself. we will be in a room with all your other co-hort mates.
 - Then at 5 offical support ends there. But that does not mean its over for you all. You want to use all the time you can to stay on pace with this accelerated program.
 - now we know what we are learning. lets take a look at how. In the next slide you will see our text book. 
 
@@ -77,14 +77,8 @@
 - (point out the times for each stack)
 - classes are not everyday which I will point out in a little bit.
 - but I wanted to show you that we are all moving towards the same goal. Learning the same stacks and same technologies.
-- lets look at an example schedule in the next slide.
-
-### Slide 10 - Accelerated Program: Time Management
-- Alright this is a generic schedule from a student in the Accelerated program.
-- everything you see in the dark blue is your dojo time. this is the time you will be spending working with the curriculum, solving problems, writing problems, ect...
-- and everything in the light blue is your time. your work, time with family, And it looks like this student is extreamly motivated, they wake up at 6am to workout 3 times a week. pretty awesome to see.
-- This is just an example, but its always a good idea to have a schedule moving forward. weather your doing full time part time any kind of program in your life have a schedule. It will help you to succeed.
 - So lets take a look at the flex Curriculum on the next slide
+
 
 
 ### Slide 11 - Flex Curriculum 
@@ -105,7 +99,7 @@
 - but you will have disscussion questions just like if you were in a university
 - so you see here that we meet 3 times a week for the PT accelerated and 2 times a week for the PT Flex.
 - the cool thing about the pt program is you have TA support on sun-sat and throughout the week.
-- so you are not left out at all you will always have support.
+- so you are not left out at all, you will always have support.
 - instructors have class time before lecture, after lecture, they have office hours.
 - you have self study, you have your other ninjas that are going to be with you in the program. 
 - you will have access to zoom and we use discord for outside class communication.
