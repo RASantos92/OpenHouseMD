@@ -36,7 +36,7 @@
 - we start the day off with algos. Algos are very important this is where we train our problem solving skills. Also prepares us for technical interviews.
 - After that first hour of algos, we get into an hour of lecture. Everything is done through zoom and everything is recorded. Lectures are a high level overview of what we learned.
 - After that we have time to put what we learned into practice. We brakout into rooms, we do group activities together. 
-- Then there is a break at 12. after that it is more of an open lab. where we work on assignment for the day that is part of the program.
+- Then there is a break at 12. after that it is more of an open lab. where we work on assignment for the day.
 - Then in the afternoon around 2 we have our afternoon session, maby a demo where were diving deeper in what we learned in the morning.
 - were constantly coding and solving problem. and the cool this is you dont have to do it by yourself. we will be in a room with all your other co-hort mates.
 - Then at 5 offical support ends there. But that does not mean its over for you all. You want to use all the time you can to stay on pace with this accelerated program.
