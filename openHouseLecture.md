@@ -52,7 +52,7 @@
 - The full time program takes the most ammount of time. 
 - think of it of haveing a full time job and a part time job.
 - the 70 - 90 hours a week is a very realalistic time commitment.
-- which mean you can have a job if you want to do the full time program.
+- which mean you cannot have a job if you want to do the full time program.
 - This is the part if you want to take it to the next level and accelerate your career faster, that is what the full time program is for.
 - 40 hours a week is where you are going to have class/lecture time 9-5
 - Then you have 30-50 hours a week where you get to join your peers in the dojo to help problem solve. via zoom, discord, and other mediums.
