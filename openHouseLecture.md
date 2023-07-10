@@ -53,7 +53,7 @@
 - think of it of haveing a full time job and a part time job.
 - the 70 - 90 hours a week is a very realalistic time commitment.
 - which mean you can have a job if you want to do the full time program.
-- This is the part if you want to take it to the next level and accelerate your career faster that is what the full time program is for.
+- This is the part if you want to take it to the next level and accelerate your career faster, that is what the full time program is for.
 - 40 hours a week is where you are going to have class/lecture time 9-5
 - Then you have 30-50 hours a week where you get to join your peers in the dojo to help problem solve. via zoom, discord, and other mediums.
 - to work towards the same goal to become sufficiant web devolpers.
@@ -73,9 +73,9 @@
 - Alright lets take a look at what the accelerated Curriculum looks like in the next slide
 
 ### Slide 9 - Accelerated curriculum
-- just like in the full time program you have the same stack you get to choose its just that the ammount of time gets doubled.
+- just like in the full time program you have the same stacks you get to choose its just that the ammount of time gets doubled.
 - (point out the times for each stack)
-- its not everyday which I will point out in a little bit.
+- classes are not everyday which I will point out in a little bit.
 - but I wanted to show you that we are all moving towards the same goal. Learning the same stacks and same technologies.
 - lets look at an example schedule in the next slide.
 
